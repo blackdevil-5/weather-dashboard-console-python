@@ -1,0 +1,42 @@
+[
+    {
+        "city": "Chennai",
+        "date": "2025-08-07 23:32:14",
+        "temperature": 31.0,
+        "humidity": 75,
+        "condition": "Partly cloudy",
+        "wind_speed": 17.0
+    },
+    {
+        "city": "Banglore",
+        "date": "2025-08-07 23:33:04",
+        "temperature": 37.0,
+        "humidity": 51,
+        "condition": "Clear",
+        "wind_speed": 14.0
+    },
+    {
+        "city": "Patna",
+        "date": "2025-08-07 23:34:03",
+        "temperature": 28.0,
+        "humidity": 89,
+        "condition": "Mist",
+        "wind_speed": 10.0
+    },
+    {
+        "city": "Nagarcoil",
+        "date": "2025-08-07 23:40:59",
+        "temperature": 22.0,
+        "humidity": 91,
+        "condition": "Cloudy",
+        "wind_speed": 4.0
+    },
+    {
+        "city": "mysore",
+        "temperature": 27.0,
+        "humidity": 66,
+        "condition": "Light rain shower",
+        "wind_speed": 5,
+        "date": "2025-08-08 11:54:39"
+    }
+]
